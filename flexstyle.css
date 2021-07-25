@@ -1,0 +1,34 @@
+.row{
+width: 100%;
+height: 500px;
+background-color: bisque;
+display: flex;
+/
+
+}
+
+.col{
+
+
+    width: 150px;
+    height: 200px;
+}
+
+
+.col-1{
+    flex: 1;
+}
+.col-2{
+    flex: 1;
+}
+
+.col-3{
+flex: 3;
+
+}
+
+.col-4{
+    flex: 2;
+}
+
+

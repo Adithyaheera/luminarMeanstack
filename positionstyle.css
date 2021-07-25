@@ -1,0 +1,44 @@
+.row1{
+
+width: 800px;
+height: 400px;
+border: 1px solid red;
+background-color: blue;
+position: relative;
+}
+.col{width: 100px;
+height: 300px;
+border: 1px solid white;
+
+}
+
+.col1{
+position: absolute;
+background-color: violet;
+
+}
+
+
+.col2{
+    position: absolute;
+background-color: yellow;
+left: 105px;
+}
+
+.col3{
+    position: absolute;
+background-color: tomato;
+left: 210px;;
+}
+.col4{
+    position: absolute;
+    background-color: green;
+left: 320px;
+}
+.col5{
+    position: absolute;
+background-color:cornflowerblue;
+left:430px ;
+}
+
+

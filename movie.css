@@ -1,0 +1,45 @@
+.row{
+width: 100%;
+border: 1px solid white;
+display: flex;
+justify-content: space-evenly;
+margin-top: 4%;
+background-color: wheat;
+
+}
+.red{
+width: 20%;
+height: 550px;
+border: 1px solid black;
+padding: 20px;
+background-color:lightcyan;
+}
+
+.red img{
+    width: 100%;
+   height: 300px;
+   border-radius: 40px;
+}
+
+button{
+    width: 310px;
+    height: 30px;
+    background-color:greenyellow;
+    color: blue;
+    }
+header{
+    display: flex;
+    width: 100%;
+    background-color: brown;
+    justify-content: space-evenly;
+    height: 70px;
+    align-items: center;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    padding-left: 100px;
+}
+
+
+

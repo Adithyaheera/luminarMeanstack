@@ -1,0 +1,14 @@
+.container{
+    width: 1600px;
+    height: 800px;
+    display: flex;
+}
+.col{
+    width: 800px;
+    height: 700px;
+    border: 1px solid black;
+}
+img{
+    width: 100%;
+    height: 500px;
+}
